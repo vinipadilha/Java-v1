@@ -1,6 +1,6 @@
 public class Ex1 {
     public static void main(String[] args){
-        Carro carro = new Carro();
+        Carro123 carro = new Carro123();
         carro.marca = "BMW";
         carro.ano = 2010;
 
@@ -10,11 +10,11 @@ public class Ex1 {
 }
 
 
-class Carro {
+class Carro123 {
     String marca;
     int ano;
 
-    public Carro() {
+    public Carro123() {
         System.out.println("Carro criado");
     }
 
