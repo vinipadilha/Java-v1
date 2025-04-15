@@ -17,9 +17,6 @@ public class Ex2 {
         carro1.mostrarInfo();
         carro2.mostrarInfo();
         carro3.mostrarInfo();
-
-
-
     }
 
 }
