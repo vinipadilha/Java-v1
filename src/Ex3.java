@@ -2,7 +2,6 @@ public class Ex3 {
 
     public static void main(String[] args) {
         Pessoa pessoa = new Pessoa("Vinicius", 18);
-
         pessoa.apresentar();
 
         Pessoa pessoa1 = new Pessoa("Vitor", 20);
